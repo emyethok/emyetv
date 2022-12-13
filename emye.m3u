@@ -1,0 +1,265 @@
+#EXTINF:-1 group-title="AFC U17" tvg-logo="https://bit.ly/3e7Lvds",1.Indonesia (20:00 wib)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+
+#EXTINF:-1 group-title="AFC U17" tvg-logo="https://bit.ly/3e7Lvds",2.Indonesia (20:00 wib)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+
+
+
+============EGI | WITAN===============
+
+
+
+
+
+#EXTINF:-1 group-title="EGI | WITAN" tvg-logo="https://bit.ly/3Cg5ejd",1.Vion Zlate (23:00 wib)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#EXTINF:-1 group-title="EGI | WITAN" tvg-logo="https://bit.ly/3Cg5ejd",2.Vion Zlate (23:00 wib)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#EXTINF:-1 group-title="EGI | WITAN" tvg-logo="https://bit.ly/3efQEQU",3.AS Trencin (19:00 wib)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Egiwitsud.m3u8
+
+#EXTINF:-1 group-title="EGI | WITAN" tvg-logo="https://bit.ly/3efQEQU",4.AS Trencin (20:00 wib)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#https://raw.githubusercontent.com/tvbolaonline98/dontol/main/km_20221002_540p.mp4
+
+#https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Egiwit.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+      
+
+
+
+
+
+========DUBAI SUPERCUP=========
+
+
+
+
+
+
+#EXTINF:-1 group-title="DUBAI SUPERCUP" tvg-logo="https://bit.ly/3FOaL3A",1.ARSENAL vs AC MILAN (21:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+
+
+#EXTINF:-1 group-title="DUBAI SUPERCUP" tvg-logo="https://bit.ly/3FOaL3A",2.ARSENAL vs AC MILAN (21:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="DUBAI SUPERCUP" tvg-logo="https://bit.ly/3FOaL3A",3.ARSENAL vs AC MILAN (21:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+========WORLD CUP=========
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3iRi2qd",1.ARGENTINA vs KROASIA (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ae10c2357e250e088bb8a5ab044dd50:e7f47e2b948e9222cf4d24b51881ec04
+https://channel-tdn-cdn.blim.com/manifest.mpd
+
+
+
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3iRi2qd",2.ARGENTINA vs KROASIA (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
+
+
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3iRi2qd",3.ARGENTINA vs KROASIA (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://lb.yacinetvkora.com/live11/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTMudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvYzUtOTlqSjBNaVZWYUNXNWhxQ0FmRVZKOXRkb2NUNFBwNEtOYzNIbEk1SFFaZU9rcXhwT1pVYjlWci01cjZ1UC1QdHNoLUNKbXZ6cnhmT1BESW1QbEEvbm9uX3RyYW5zY29kZS9ldS13ZXN0LTMvcGVyaXNjb3BlLXJlcGxheS1kaXJlY3QtcHJvZC1ldS13ZXN0LTMtcHJpdmF0ZS9zdF9tYXN0ZXJfZHluYW1pY19oaWdobGF0ZW5jeS5tM3U4P3R5cGU9bGl2ZQ%3D%3D
+
+
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3iRi2qd",4.ARGENTINA vs KROASIA (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://bvsat02.cdn.rcs.net.ar/mnp/tyc/output.mpd
+
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3iRi2qd",5.ARGENTINA vs KROASIA (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn.raino.xyz/hls/stream1.m3u8|referer=https://bdnewszh.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+============INDONESIA===============
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",1.BRI LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
+      
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",2.BRI LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+      
+      
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",2.BRI LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://golive.yn.lt/live/liga1/04.m3u8
+
+      
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",2.BRI LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
+http://golive.yn.lt/live/liga1/05.m3u8
+      
+      
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.medcom.id/dynamic/content/2018/12/04/960843/eaojZK4D0v.jpg?w=1024",3.LIGA 2 L1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://global.zkshuye.cn/live/sd-1-3782113.m3u8
+      
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.medcom.id/dynamic/content/2018/12/04/960843/eaojZK4D0v.jpg?w=1024",4.LIGA 2 L2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://tv.zonanime.my.id/vidio/ochannel.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.medcom.id/dynamic/content/2018/12/04/960843/eaojZK4D0v.jpg?w=1024",5.LIGA 2 L3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://tv.zonanime.my.id/vidio/ochannel.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.medcom.id/dynamic/content/2018/12/04/960843/eaojZK4D0v.jpg?w=1024",6.LIGA 2 L4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://bit.ly/3LFUZZR",7.Futsal Indo 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index.m3u8|Referer=https://m.rctiplus.com/
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://bit.ly/3LFUZZR",8.Futsal Indo L1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://bit.ly/3LFUZZR",9.Futsal Indo L2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://bit.ly/3SPLSYU",_10.Badminton C1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+      
+#https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/playlist.m3u8
+
+#https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/playlist.m3u8
+
+#https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/playlist.m3u8
+
+#https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://bit.ly/3SPLSYU",_11.Badminton C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+      
+#https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/playlist.m3u8
+
+#https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/playlist.m3u8
+
+#https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://bit.ly/3SPLSYU",_12.Badminton C3
